@@ -36,4 +36,4 @@ jetbrains-kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = 
 [bundles]
 androidx = ["navigation-fragment","navigation-ui","paging-runtime","androidx-core-ktx",
     "androidx-appcompat","material"]
-http = ["retrofit","converter-gson","okhttp","logging","glide","glide-compiler","glide-transformations"]
+http = ["retrofit","converter-gson","okhttp","logging","glide","glide-transformations"]
